@@ -1,0 +1,17 @@
+{
+    "name": "app/api",
+    "autoload": {
+        "psr-4": {
+            "App\\Api\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "JesJessé Levandovski",
+            "email": "jesse.levandovski@outlook.com"
+        }
+    ],
+    "require": {
+        "taq/torm": ">=1.0"
+    }
+}
